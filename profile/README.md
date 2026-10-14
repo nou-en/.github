@@ -2,7 +2,7 @@
 
 **Wij bouwen apps: handig, vrolijk en met zorg gemaakt.**
 
-![Status: in ontwikkeling](https://img.shields.io/badge/status-in%20ontwikkeling-orange) ![Platforms: iOS en Android](https://img.shields.io/badge/platforms-iOS%20%7C%20Android-blue) ![Taal: Nederlands](https://img.shields.io/badge/taal-Nederlands-red)
+![Status: in ontwikkeling](https://img.shields.io/badge/status-in%20ontwikkeling-orange) ![Platforms: iOS, Android en web](https://img.shields.io/badge/platforms-iOS%20%7C%20Android%20%7C%20Web-blue) ![Taal: Nederlands](https://img.shields.io/badge/taal-Nederlands-red)
 
 ## 🙋 Wie we zijn
 
@@ -10,7 +10,7 @@ Wij zijn **Nemo Strengman** en **Peter**. Samen bouwen we apps die het dagelijks
 
 ## 📱 Wat we maken
 
-Onze apps zijn allebei nog in ontwikkeling, voor iOS en Android.
+We werken aan drie projecten, alle drie nog in ontwikkeling. ShootingScore en Sinterklaas bouwen we voor iOS en Android; Mijn Weekhulp werkt in de browser.
 
 ### 🎯 ShootingScore
 
@@ -19,6 +19,10 @@ Scores bijhouden bij het kleiduivenschieten, op je telefoon of tablet. Scoor per
 ### 🎁 Sinterklaas
 
 Een app voor gezinnen rond Sinterklaas. Een kind chat met een digitale Sinterklaas (duidelijk een AI) en stuurt een foto van speelgoed dat het graag wil. Ondertussen ontstaat er een verlanglijstje voor de ouders. Ouders houden de regie in hun eigen deel achter een pincode en kunnen het lijstje met familie delen.
+
+### 🛒 Mijn Weekhulp
+
+Een webapp voor telefoon, tablet en computer die mensen die zelfstandig wonen helpt met de boodschappen, binnen hun eigen weekbudget. Je spreekt in of typt wat op is; de app maakt er één lijst van en doet een voorstel bij je eigen supermarkten. Je kiest zelf hoeveel hulp je wilt, en een begeleider kijkt alleen mee als jij dat goed vindt. AI begrijpt wat je zegt, vaste rekenregels rekenen het geld uit.
 
 ## 🤖 Hoe we werken
 
