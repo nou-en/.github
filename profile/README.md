@@ -10,7 +10,7 @@ Wij zijn **Nemo Strengman** en **Peter**. Samen bouwen we apps die het dagelijks
 
 ## 📱 Wat we maken
 
-We werken aan drie projecten, alle drie nog in ontwikkeling. ShootingScore en Sinterklaas bouwen we voor iOS en Android; Mijn Weekhulp werkt in de browser.
+We werken aan vier projecten, alle vier nog in ontwikkeling. ShootingScore en Sinterklaas bouwen we voor iOS en Android; Mijn Weekhulp en Padel met het team werken in de browser.
 
 ### 🎯 ShootingScore
 
@@ -23,6 +23,10 @@ Een app voor gezinnen rond Sinterklaas. Een kind chat met een digitale Sinterkla
 ### 🛒 Mijn Weekhulp
 
 Een webapp voor telefoon, tablet en computer die mensen die zelfstandig wonen helpt met de boodschappen, binnen hun eigen weekbudget. Je spreekt in of typt wat op is; de app maakt er één lijst van en doet een voorstel bij je eigen supermarkten. Je kiest zelf hoeveel hulp je wilt, en een begeleider kijkt alleen mee als jij dat goed vindt. AI begrijpt wat je zegt, vaste rekenregels rekenen het geld uit.
+
+### 🎾 Padel met het team
+
+Een webapp voor de telefoon waarmee een groep collega's met wisselende diensten samen een padelmoment vindt. Voer je rooster in en controleer het, zie wie er wanneer kan, stel een potje voor en deel het bevestigde bericht via WhatsApp. De app rekent met vaste, controleerbare regels, ook bij diensten over middernacht en de overgang naar zomer- of wintertijd, en houdt werkroosters afgeschermd.
 
 ## 🤖 Hoe we werken
 
